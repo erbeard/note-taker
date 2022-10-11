@@ -27,7 +27,7 @@
   ## Description
   This application was created to allow a user to write and save notes. The app uses express.js back-end; saving & retrieving note data from a JSON file. The finished application is deployed to Heroku. 
 
-  ![alt text](./assets/images/Capture.PNG)
+  ![alt text](./public/assets/images/Capture.PNG)
   
   ## Installation
   Clone the project. Run "npm i" in your terminal to install necessary packages.
