@@ -25,7 +25,7 @@
     * Express.js
   
   ## Description
-  This application was created to allow a user to write and save notes. The app uses express.js back-end; saving & retrieving note data from a JSON file. The finished application is deployed to Heroku. 
+  This application was created to allow a user to write and save notes. The app uses express.js back-end; saving & retrieving note data from a JSON file. The finished application is deployed to Heroku. [Link to Application](https://frozen-taiga-92534.herokuapp.com/) 
 
   ![alt text](./public/assets/images/Capture.PNG)
   
